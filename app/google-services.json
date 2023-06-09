@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "90805244552",
+    "project_id": "pizza-2c4da",
+    "storage_bucket": "pizza-2c4da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90805244552:android:cd6c628b6a1eb0a7ca053d",
+        "android_client_info": {
+          "package_name": "com.example.pizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90805244552-vv2j34ejop8t2b93o7d7fgdhk04ti27r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pizza",
+            "certificate_hash": "8e5d5c82de23340d4d04d0539b8986a8cb2e8467"
+          }
+        },
+        {
+          "client_id": "90805244552-fl1lj5hobdsupo99j0i0dvefdta68ep5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHn4_O-J6oUyx25Ml3dIOebsVHDLSyw6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90805244552-fl1lj5hobdsupo99j0i0dvefdta68ep5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
